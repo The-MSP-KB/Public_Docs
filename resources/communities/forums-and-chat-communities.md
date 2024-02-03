@@ -24,7 +24,7 @@ Spiceworks is a professional IT community that provides MSPs with opportunities 
 
 **Link:** [https://community.spiceworks.com/managed-service-providers](https://community.spiceworks.com/managed-service-providers)
 
-**MSPs'r'Us**
+### MSPs'r'Us
 
 MSPs'r'us is a discord community that is directly related to the reddit /r/msp community, with 5000 active members.
 
@@ -32,7 +32,7 @@ MSPs'r'us is a discord community that is directly related to the reddit /r/msp c
 
 **Link:** [https://discord.gg/mspexchange](https://discord.gg/mspexchange)
 
-**CyberDrain CIPP**
+### CyberDrain CIPP
 
 CyberDrain is the community attached to the CyberDrain.com initiative by Kelvin Tegelaar, with 2500 members. CyberDrain has an active community around CyberDrain's CTF events and CIPP product.
 
