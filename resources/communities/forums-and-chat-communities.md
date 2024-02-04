@@ -6,7 +6,7 @@ MSP subreddit (r/msp): This Reddit community is a popular forum for MSPs to disc
 
 **Target audience:** Primarily business, but also covers some technical-related topics.
 
-[https://www.reddit.com/r/msp/](https://www.reddit.com/r/msp/)
+**Link:** [https://www.reddit.com/r/msp/](https://www.reddit.com/r/msp/)
 
 #### MSPGeek
 
@@ -14,7 +14,7 @@ MSPGeek is an online community where MSPs can connect, share knowledge, and lear
 
 **Target audience:** Primarily technical, but also covers some business-related topics.
 
-**Link:** [https://mspgeek.org](https://mspgeek.org/);
+**Link:** [https://mspgeek.org](https://mspgeek.org/)
 
 #### Spiceworks
 
