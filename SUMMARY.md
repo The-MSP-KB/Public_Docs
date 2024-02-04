@@ -54,6 +54,7 @@
 
 * [Communities](resources/communities/README.md)
   * [Forums & chat communities](resources/communities/forums-and-chat-communities.md)
+  * [Peer Groups](resources/communities/peer-groups.md)
   * [Social Media communities](resources/communities/social-media-communities.md)
 * [Business Resources](resources/business-resources/README.md)
   * [Podcasts & Webinars](resources/business-resources/podcasts-and-webinars.md)
