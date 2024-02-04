@@ -24,4 +24,4 @@ While peer groups offer many benefits, they can also pose a risk if they turn in
 
 In conclusion, peer groups can play a vital role in an MSP's growth and success by providing a platform for learning, collaboration, and networking. By actively participating in these groups, MSPs can gain valuable insights and improve their service offerings. However, it's essential to be aware of the potential risks and ensure a diverse range of ideas and experiences are considered.
 
-***Find some Peer Groups here:*** [https://docs.themspkb.com/resources/communities/peer-groups](https://docs.themspkb.com/resources/communities/peer-groups)
+>**Find some Peer Groups here:** [https://docs.themspkb.com/resources/communities/peer-groups](https://docs.themspkb.com/resources/communities/peer-groups)
