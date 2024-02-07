@@ -61,3 +61,6 @@
 * [Technical Resources](resources/technical-resources/README.md)
   * [Podcasts & Webinars](resources/technical-resources/podcasts-and-webinars.md)
   * [Blogs & Books](resources/technical-resources/blogs-and-books.md)
+  * [MSP Toolkit](resources/technical-resources/msp-toolkit/README.md)
+    *[USB Stick Essentials](resources/technical-resources/msp-toolkit/usb-stick-essentials/README.md)
+      *[User Profile Wizard](resources/technical-resources/msp-toolkit/usb-stick-essentials/user-profile-wizard.md)
