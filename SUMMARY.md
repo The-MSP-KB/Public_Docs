@@ -65,5 +65,8 @@
   * [MSP Toolkit](resources/technical-resources/msp-toolkit/README.md)
     * [Screen Capture](resources/technical-resources/msp-toolkit/screen-capture/README.md)
       * [Greenshot](/resources/technical-resources/msp-toolkit/screen-capture/greenshot.md)
+      * [PSR](/resources/technical-resources/msp-toolkit/screen-capture/problem-screen-recorder.md)
+      * [ShareX](/resources/technical-resources/msp-toolkit/screen-capture/sharex.md)
     * [USB Stick Essentials](/resources/technical-resources/msp-toolkit/usb-stick-essentials/README.md)
       * [User Profile Wizard](/resources/technical-resources/msp-toolkit/usb-stick-essentials/user-profile-wizard.md)
+      * [PortableApps](/resources/technical-resources/msp-toolkit/usb-stick-essentials/portableapps.md)
