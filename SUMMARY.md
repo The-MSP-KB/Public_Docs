@@ -32,12 +32,12 @@
   * [Professional Services Department: Technical Expertise and Collaboration with the Service Desk](msp-operations/msp-departments-and-business-units/professional-services-department-technical-expertise-and-collaboration-with-the-service-desk.md)
   * [Sales, Account Management, and Marketing: Driving MSP Growth and Client Satisfaction](msp-operations/msp-departments-and-business-units/sales-account-management-and-marketing-driving-msp-growth-and-client-satisfaction.md)
   * [Industry Roles & Responsibilities](msp-operations/msp-departments-and-business-units/roles.md)
-* [MSP Compliance & Regulations](msp-operations/page-3/README.md)
-  * [Importance of Compliance for MSPs](msp-operations/page-3/importance-of-compliance-for-msps.md)
-  * [Common Regulations Affecting MSPs](msp-operations/page-3/common-regulations-affecting-msps.md)
-  * [Compliance Challenges & Strategies for MSPs](msp-operations/page-3/compliance-challenges-and-strategies-for-msps.md)
-  * [Risk Management and Incident Response](msp-operations/page-3/risk-management-and-incident-response.md)
-  * [Working with Clients on Compliance](msp-operations/page-3/working-with-clients-on-compliance.md)
+* [MSP Compliance & Regulations](msp-operations/msp-compliance-and-regulations/README.md)
+  * [Importance of Compliance for MSPs](msp-operations/msp-compliance-and-regulations/importance-of-compliance-for-msps.md)
+  * [Common Regulations Affecting MSPs](msp-operations/msp-compliance-and-regulations/common-regulations-affecting-msps.md)
+  * [Compliance Challenges & Strategies for MSPs](msp-operations/msp-compliance-and-regulations/compliance-challenges-and-strategies-for-msps.md)
+  * [Risk Management and Incident Response](msp-operations/msp-compliance-and-regulations/risk-management-and-incident-response.md)
+  * [Working with Clients on Compliance](msp-operations/msp-compliance-and-regulations/working-with-clients-on-compliance.md)
 
 ## MSP Relationships
 
@@ -54,6 +54,7 @@
 
 * [Communities](resources/communities/README.md)
   * [Forums & chat communities](resources/communities/forums-and-chat-communities.md)
+  * [Peer Groups](resources/communities/peer-groups.md)
   * [Social Media communities](resources/communities/social-media-communities.md)
 * [Business Resources](resources/business-resources/README.md)
   * [Podcasts & Webinars](resources/business-resources/podcasts-and-webinars.md)

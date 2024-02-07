@@ -23,3 +23,5 @@ Running an MSP can be tough, especially for smaller businesses or those new to t
 While peer groups offer many benefits, they can also pose a risk if they turn into echo chambers. When group members only share similar opinions and experiences, it can limit the diversity of ideas and stifle creativity. MSPs should be aware of this risk and make an effort to seek out different perspectives and experiences to avoid falling into the echo chamber trap.
 
 In conclusion, peer groups can play a vital role in an MSP's growth and success by providing a platform for learning, collaboration, and networking. By actively participating in these groups, MSPs can gain valuable insights and improve their service offerings. However, it's essential to be aware of the potential risks and ensure a diverse range of ideas and experiences are considered.
+
+>**Find some Peer Groups here:** [https://docs.themspkb.com/resources/communities/peer-groups](https://docs.themspkb.com/resources/communities/peer-groups)

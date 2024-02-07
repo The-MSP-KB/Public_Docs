@@ -6,7 +6,7 @@ MSP subreddit (r/msp): This Reddit community is a popular forum for MSPs to disc
 
 **Target audience:** Primarily business, but also covers some technical-related topics.
 
-[https://www.reddit.com/r/msp/](https://www.reddit.com/r/msp/)
+**Link:** [https://www.reddit.com/r/msp/](https://www.reddit.com/r/msp/)
 
 #### MSPGeek
 
@@ -14,7 +14,7 @@ MSPGeek is an online community where MSPs can connect, share knowledge, and lear
 
 **Target audience:** Primarily technical, but also covers some business-related topics.
 
-**Link:** [https://mspgeek.org](https://mspgeek.org/);
+**Link:** [https://mspgeek.org](https://mspgeek.org/)
 
 #### Spiceworks
 
@@ -24,7 +24,7 @@ Spiceworks is a professional IT community that provides MSPs with opportunities 
 
 **Link:** [https://community.spiceworks.com/managed-service-providers](https://community.spiceworks.com/managed-service-providers)
 
-**MSPs'r'Us**
+#### MSPs'r'Us
 
 MSPs'r'us is a discord community that is directly related to the reddit /r/msp community, with 5000 active members.
 
@@ -32,7 +32,7 @@ MSPs'r'us is a discord community that is directly related to the reddit /r/msp c
 
 **Link:** [https://discord.gg/mspexchange](https://discord.gg/mspexchange)
 
-**CyberDrain CIPP**
+#### CyberDrain CIPP
 
 CyberDrain is the community attached to the CyberDrain.com initiative by Kelvin Tegelaar, with 2500 members. CyberDrain has an active community around CyberDrain's CTF events and CIPP product.
 
