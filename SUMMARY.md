@@ -63,4 +63,6 @@
   * [Podcasts & Webinars](resources/technical-resources/podcasts-and-webinars.md)
   * [Blogs & Books](resources/technical-resources/blogs-and-books.md)
   * [MSP Toolkit](resources/technical-resources/msp-toolkit/README.md)
-    * [Page 1](resources/technical-resources/msp-toolkit/page-1.md)
+    * [Page 1](resources/technical-resources/msp-toolkit/page-1/README.md)
+      * [Page 2](resources/technical-resources/msp-toolkit/page-1/page-2.md)
+      * [Page 3](resources/technical-resources/msp-toolkit/page-1/page-3.md)
