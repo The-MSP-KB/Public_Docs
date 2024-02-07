@@ -4,6 +4,6 @@ By far the best starting point for any engineer is the PortableApps USB Stick. T
 
 ![PortableApps](/resources/technical-resources/msp-toolkit/usb-stick-essentials/portableapps.png)
 
-**Link:** [[http://portableapps.com/]]
+**Link:** [http://portableapps.com/](http://portableapps.com/)
 
-**Download:** [[http://portableapps.com/download]]
+**Download:** [http://portableapps.com/download](http://portableapps.com/)
