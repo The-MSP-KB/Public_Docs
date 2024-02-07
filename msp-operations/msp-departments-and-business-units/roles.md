@@ -89,3 +89,11 @@ Business analysts work to understand client needs and identify opportunities for
 ### Training Specialist
 
 Training specialists develop and deliver training programs to both internal employees and clients, ensuring users can effectively utilize the company's products and services.
+
+### Automation Engineer
+
+Focuses on developing and implementing automation solutions to enhance efficiency and effectiveness within the MSP's service delivery framework. This role requires a deep understanding of automation technologies and best practices, with responsibilities including the design, deployment, and maintenance of automation scripts and workflows.
+
+### Integration Specialist
+
+Responsible for ensuring the seamless integration of various IT systems and applications within the MSP's infrastructure. This role involves analyzing system requirements, coordinating with different teams to facilitate smooth data exchange, and optimizing the overall IT ecosystem for enhanced operational efficiency.
