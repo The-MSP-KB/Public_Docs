@@ -1,41 +1,83 @@
-# Forums & chat communities
+---
+description: >-
+  Explore online MSP communities for real-time collaboration, technical advice,
+  and business insights. Engage with peers and grow professionally across
+  various platforms.
+---
 
-#### Reddit r/msp
+# Online Communities
 
-MSP subreddit (r/msp): This Reddit community is a popular forum for MSPs to discuss business practices, share resources, and seek advice. Reddit is the largest MSP community in the world with over 140.000 members.
+## Community Profiles
 
-**Target audience:** Primarily business, but also covers some technical-related topics.
+## **Reddit: r/msp**
 
-**Link:** [https://www.reddit.com/r/msp/](https://www.reddit.com/r/msp/)
+* **Overview:**\
+  With over 140,000 members, r/msp is the largest online MSP-focused community. It’s an invaluable space for discussing pricing strategies, vendor relationships, service delivery, and occasional technical topics. Active threads range from industry trends to peer recommendations.
+* **Target Audience:** Mix of business-focused and technical insights.
+* **Why Join:**
+  * Peer-driven advice on MSP operations.
+  * Access to real-world insights from a global member base.
+* **Link:** [Visit r/msp](https://www.reddit.com/r/msp/)
 
-#### MSPGeek
+***
 
-MSPGeek is an online community where MSPs can connect, share knowledge, and learn from each other's experiences. The community focuses on discussing best practices, offering technical support, and providing a space for collaboration among MSP professionals.
+## **MSPGeek (Discord)**
 
-**Target audience:** Primarily technical, but also covers some business-related topics.
+* **Overview:**\
+  Originally built as a technical forum for MSPs, MSPGeek is now a thriving community offering support for troubleshooting, and vendor specific challenges with their dedicated spaces for engagement. It is especially popular for RMM and automation focused technicians.
+* **Target Audience:** MSP technicians and engineers, with some business conversations.
+* **Why Join:**
+  * Dive deep into RMM tools, scripting, and automation.
+  * Collaborative and constructive discussions for day-to-day MSP work.
+  * Engage directly with the business you work with in their dedicated vendor channels.
+* **Link:** [Visit MSPGeek](https://mspgeek.org/)
 
-**Link:** [https://mspgeek.org](https://mspgeek.org/)
+***
 
-#### Spiceworks
+## **Spiceworks**
 
-Spiceworks is a professional IT community that provides MSPs with opportunities for networking, discussions, and sharing best practices. The platform covers a variety of technical and business topics, making it suitable for a diverse MSP audience.
+* **Overview:**\
+  Spiceworks is a broad IT forum with a dedicated section for managed service providers. Members discuss both technical and business topics, making it a versatile resource for MSPs of all sizes.
+* **Target Audience:** MSPs looking for both technical and business-focused discussions.
+* **Why Join:**
+  * Gain insights from IT professionals across different sectors.
+  * Network with peers and explore vendor-neutral resources.
+* **Link:** [Visit Spiceworks](https://community.spiceworks.com/managed-service-providers)
 
-**Target audience:** Both technical and business-focused MSPs.
+***
 
-**Link:** [https://community.spiceworks.com/managed-service-providers](https://community.spiceworks.com/managed-service-providers)
+## **MSPs’r’us (Discord)**
 
-#### MSPs'r'Us
+* **Overview:**\
+  A real-time collaboration platform tied to the Reddit r/msp community, MSPs’r’us has over 5,000 members. It focuses on technical problem-solving, quick-fire advice, and informal networking.
+* **Target Audience:** Primarily technical, but also open to business-oriented MSP discussions.
+* **Why Join:**
+  * Get feedback on technical challenges.
+  * Build connections in a casual, fast-paced environment.
+* **Link:** [Join MSPs’r’us](https://discord.gg/mspexchange)
 
-MSPs'r'us is a discord community that is directly related to the reddit /r/msp community, with 5000 active members.
+***
 
-**Target audience:** Primarily technical, but also covers some business-related topics.
+#### **CyberDrain (Discord)**
 
-**Link:** [https://discord.gg/mspexchange](https://discord.gg/mspexchange)
+* **Overview:**\
+  This community, centered around emphasizes scripting, automation, and cybersecurity practices, as well as the home of the Open Source software tool CIPP.&#x20;
+* **Target Audience:** Technical professionals focused on M365, GDAP, Graph APIs & PowerShell
+* **Why Join:**
+  * Participate in challenges like Capture The Flag (CTF) for skill-building.
+  * Engage with the Open Source community of the CyberDrain Improved Partner Portal
+* **Link:** [Join CyberDrain](https://discord.gg/cyberdrain)
 
-#### CyberDrain CIPP
+***
 
-CyberDrain is the community attached to the CyberDrain.com initiative by Kelvin Tegelaar, with 2500 members. CyberDrain has an active community around CyberDrain's CTF events and CIPP product.
+#### **6. The Tech Degenerates (TTD)**
 
-**Target audience:** Technical
-
-**Link:** [https://discord.gg/cyberdrain](https://discord.gg/cyberdrain)
+* **Overview:**\
+  The Tech Degenerates is a community for MSPs, vendors, and other IT channel professionals. TTD combines a Discord server with structured monthly activities like happy hours, and host an extensive industry events calendar. Its unique approach blends professional growth with a sense of humor and inclusivity.
+* **Target Audience:** Channel professionals seeking collaboration and shared knowledge.
+* **Why Join:**
+  * Access diverse initiatives like consulting programs, peer groups, and exclusive events.
+  * Stay informed with curated resources and a centralized industry calendar.
+* **Link:**
+  * [Join the TTD Discord](https://discord.gg/jointhedegenerates)
+  * [Explore the Industry Calendar](https://thetechdegenerates.com/Public/Resources/IndustryCalendar/)

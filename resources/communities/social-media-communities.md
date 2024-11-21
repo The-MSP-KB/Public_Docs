@@ -1,22 +1,16 @@
 # Social Media communities
 
-**IT & MSP Business Owners Group (Chris Wiser)**
+**All Things MSP (Eric Anthony)**
 
-This Facebook group is a community where IT and MSP business owners can discuss various topics related to running and growing their businesses.
+All Things MSP is a Facebook group that serves as a platform for MSP professionals to share ideas, resources, and experiences related to the MSP industry.
 
-**Link:** [https://www.facebook.com/groups/ITMSPBOG/](https://www.facebook.com/groups/ITMSPBOG/)
+**Link:** [https://www.facebook.com/groups/allthingsmsp/](https://www.facebook.com/groups/allthingsmsp/)
 
 **Everything MSP (Dan Tomaszewski)**
 
 Everything MSP is a Facebook group dedicated to MSPs, covering various topics, including technology, business growth, and industry trends.
 
 **Link:** [https://www.facebook.com/groups/everythingmsp/](https://www.facebook.com/groups/everythingmsp/)
-
-**All Things MSP (Eric Anthony)**
-
-All Things MSP is a Facebook group that serves as a platform for MSP professionals to share ideas, resources, and experiences related to the MSP industry.
-
-**Link:** [https://www.facebook.com/groups/allthingsmsp/](https://www.facebook.com/groups/allthingsmsp/)
 
 **ConnectWise Boss (Adam Bolanski)**
 
